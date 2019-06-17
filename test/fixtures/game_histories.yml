@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  player_one: MyString
+  player_two: MyString
+  p_one_score: 1
+  p_two_score: 1
+
+two:
+  player_one: MyString
+  player_two: MyString
+  p_one_score: 1
+  p_two_score: 1
